@@ -32,12 +32,12 @@ yarn dev
 
 ## Author
 
-👤 **Samet, Yasin, Furkan**
+👤 **Selman Yasin Aktaş**
 
 * Website: https://yasin.randevuburada.com
 * Twitter: [@syasinakts](https://twitter.com/syasinakts)
-* Github: [@syasinakts, Regeenn, sametkadem](https://github.com/syasinakts, Regeenn, sametkadem)
-* LinkedIn: [@Selman Yasin Aktaş](https://linkedin.com/in/Selman Yasin Aktaş)
+* Github: [@syasinakts](https://github.com/syasinakts)
+* LinkedIn: [@Selman Yasin Aktaş](https://www.linkedin.com/in/selman-yasin-akta%C5%9F-34243a253/)
 
 ## Show your support
 
