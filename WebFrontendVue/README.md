@@ -46,4 +46,10 @@ yarn dev
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+<blockquote>
+  <p><em><bold>This README was generated with ❤️ by 
+    <a rel="noopener" target="_blank" href="https://github.com/syasinakts">
+      Selman Yasin Aktaş
+    </a>
+  </em>.</bold></p>
+</blockquote>
