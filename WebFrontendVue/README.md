@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to QSWebFrontendVue 👋</h1>
-<p>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/syasinakts/QSWebFrontendVue/blob/main/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
@@ -18,13 +18,15 @@
 
 ### ✨ [Demo](https://syfony.randevuburada.com)
 
-## Install
+## 📦 Installation
+Clone the repository and install dependencies with:
 
 ```sh
 yarn install
 ```
 
-## Usage
+## 🖥️ Usage
+Start the development server with:
 
 ```sh
 yarn dev
@@ -44,4 +46,10 @@ yarn dev
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+<blockquote>
+  <p><em><bold>This README was generated with ❤️ by 
+    <a rel="noopener" target="_blank" href="https://github.com/syasinakts">
+      Selman Yasin Aktaş
+    </a>
+  </em>.</bold></p>
+</blockquote>
