@@ -18,13 +18,15 @@
 
 ### ✨ [Demo](https://syfony.randevuburada.com)
 
-## Install
+## 📦 Installation
+Clone the repository and install dependencies with:
 
 ```sh
 yarn install
 ```
 
-## Usage
+## 🖥️ Usage
+Start the development server with:
 
 ```sh
 yarn dev
