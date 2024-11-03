@@ -14,7 +14,6 @@
 
 > This project, named &#34;Question Solver,&#34; is a versatile tool designed to facilitate the creation and management of questions and answers using various input methods. Users can capture images, upload photos, or add handwritten text and equations using an intuitive editor. The application leverages powerful technologies such as Vue.js and Quill for creating a dynamic user interface, while integrating Google Vision API for image-to-text conversion.Key features include the ability to crop and edit images, a rich text editor for entering complex mathematical formulas and equations, and smooth integration for camera capture and image handling. The goal is to provide an all-in-one platform for efficiently processing and solving questions using both images and text inputs.Whether you're a student, teacher, or researcher, &#34;Question Solver&#34; aims to make creating and handling questions easier and more interactive.
 
-### 🏠 [Homepage](https://github.com/syasinakts/QSWebFrontendVue/blob/main/README.md)
 
 ### ✨ [Demo](https://syfony.randevuburada.com)
 
