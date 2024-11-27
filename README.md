@@ -35,7 +35,7 @@ yarn dev
 
 * Website: https://yasin.randevuburada.com
 * Twitter: [@syasinakts](https://twitter.com/syasinakts)
-* Github: [@syasinakts, Regeenn, sametkadem](https://github.com/syasinakts, Regeenn, sametkadem)
+* Github: [@syasinakts](https://github.com/syasinakts)
 * LinkedIn: [@Selman Yasin Aktaş](https://linkedin.com/in/Selman Yasin Aktaş)
 
 ## Show your support
