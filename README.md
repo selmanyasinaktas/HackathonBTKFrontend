@@ -31,7 +31,7 @@ yarn dev
 
 ## Author
 
-👤 **Samet, Yasin, Furkan**
+👤 **Selman Yasin Aktaş**
 
 * Website: https://yasin.randevuburada.com
 * Twitter: [@syasinakts](https://twitter.com/syasinakts)
