@@ -1,4 +1,6 @@
-<h1 align="center">Welcome to QSWebFrontendVue 👋</h1>
+# HackathonBTKFrontend
+
+Bu proje, BTK Hackathon 2024 için geliştirilen bir uygulamadır. Vue kullanılarak oluşturulmuştur. Yapay zeka ile öğrencilere takıldıkları sorularda yardımcı olmayı ve yetersiz kaldıkları konularda onları yönlendirerek çalışma verimliliğini arttırmayı amaçlamaktadır. 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/syasinakts/QSWebFrontendVue/blob/main/README.md" target="_blank">
